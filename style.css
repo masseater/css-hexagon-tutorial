@@ -62,3 +62,24 @@ div {
   border-left: 52px solid transparent;
   border-right: 52px solid transparent;
 }
+
+.rot30--left {
+  float: left;
+  border-right: 30px solid #6c6;
+  border-top: 52px solid transparent;
+  border-bottom: 52px solid transparent;
+}
+
+.rot30--middle {
+  float: left;
+  width: 60px;
+  height: 104px;
+  background-color: #6c6;
+}
+
+.rot30--right {
+  float: left;
+  border-left: 30px solid #6c6;
+  border-top: 52px solid transparent;
+  border-bottom: 52px solid transparent;
+}
