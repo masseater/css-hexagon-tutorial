@@ -24,3 +24,10 @@ body {
   border-left: 30px solid #66c;
   border-right: 30px solid #cc6;
 }
+
+#step4--div {
+  width: 0;
+  border-bottom: 30px solid #6c6;
+  border-left: 52px solid transparent;
+  border-right: 52px solid transparent;
+}
