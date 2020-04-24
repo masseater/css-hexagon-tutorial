@@ -1,0 +1,9 @@
+body {
+  padding: 40px;
+}
+
+#first--box {
+  height: 100px;
+  width: 100px;
+  border: 30px solid #999;
+}
