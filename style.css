@@ -2,8 +2,17 @@ body {
   padding: 40px;
 }
 
-#first--box {
+#step1--div {
   height: 100px;
   width: 100px;
   border: 30px solid #999;
+}
+
+#step2--div {
+  height: 100px;
+  width: 100px;
+  border-top: 30px solid #c66;
+  border-bottom: 30px solid #6c6;
+  border-left: 30px solid #66c;
+  border-right: 30px solid #cc6;
 }
