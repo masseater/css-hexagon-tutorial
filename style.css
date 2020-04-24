@@ -16,3 +16,11 @@ body {
   border-left: 30px solid #66c;
   border-right: 30px solid #cc6;
 }
+
+#step3--div {
+  width: 0;
+  border-top: 30px solid #c66;
+  border-bottom: 30px solid #6c6;
+  border-left: 30px solid #66c;
+  border-right: 30px solid #cc6;
+}
