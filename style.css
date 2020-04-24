@@ -2,6 +2,10 @@ body {
   padding: 40px;
 }
 
+div {
+  width: fit-content;
+}
+
 #step1--div {
   height: 100px;
   width: 100px;
@@ -33,6 +37,26 @@ body {
 }
 
 #step5--div {
+  width: 0;
+  border-top: 30px solid #6c6;
+  border-left: 52px solid transparent;
+  border-right: 52px solid transparent;
+}
+
+.top {
+  width: 0;
+  border-bottom: 30px solid #6c6;
+  border-left: 52px solid transparent;
+  border-right: 52px solid transparent;
+}
+
+.middle {
+  width: 104px;
+  height: 60px;
+  background-color: #6c6;
+}
+
+.bottom {
   width: 0;
   border-top: 30px solid #6c6;
   border-left: 52px solid transparent;
